@@ -1,10 +1,19 @@
-# skins for osugame i often use
+# skins for osu that i use or used in the past
 
-# [rafis dt edit](https://mega.nz/file/mVVDXIyK#LhtuUR72UVoFxNqkmKV7NpnaGcyTh8zGtJzP1ECQ-ig)
-![](https://cdn.discordapp.com/attachments/1129437051855573013/1156747782531592272/screenshot051.png?ex=651618d2&is=6514c752&hm=12fd428175b2cbfb5ad533a31d1c2811c48ab9efd9b635327e07821d0f5242d1&)
+# [zadymiarz podkrecony](https://mega.nz/file/OMsWHKJY#k5EsNocI1pK-BJxy3rInbTYFbrwesqu2q-N0MVMkG8w)
+![](https://cdn.discordapp.com/attachments/1129437051855573013/1322586729240199188/screenshot037.jpg?ex=67716a60&is=677018e0&hm=b2e6273ae80f2bac8806977b3d406cf2dc26945e6020347b30f4fbc1e5b7e3cb&)
 
-# [-+Hey+DT](https://mega.nz/file/3Q8yyBID#2Pn-q8RPDygIuHT-e2aYXxMg-548nA7bsG9QJ--3RqU)
-![](https://cdn.discordapp.com/attachments/1129437051855573013/1156747035425386516/screenshot050.png?ex=65161820&is=6514c6a0&hm=880e10afbe25a6656a6f527b19b91c24bba4d019e81af6ff3dfa6b60378daa0e&)
+# [tekkito ietherial](https://mega.nz/file/qRkzybqK#yfcz3moQoe_6Vm6pPhxCWnzhpIp-EBNExiyz34EtzJ4)
+![](https://cdn.discordapp.com/attachments/1129437051855573013/1322585933215961088/screenshot032.jpg?ex=677169a2&is=67701822&hm=0467b65e132e7d5015e3df72f94b7f0bdd75a47892172e52d1b41f616f3988cb&)
+
+# [marianczello](https://mega.nz/file/fR1XAYrJ#OvXrzd-f__mNp1eaNg2eKD7a9fe0DBoo2HlxWxRAS40)
+![](https://cdn.discordapp.com/attachments/1129437051855573013/1322585207030677514/screenshot028.jpg?ex=677168f5&is=67701775&hm=f600140bb3611e73b1f9fd7c57b9156cbee42b81ffa0fce39feca64ec0142745&)
+
+# [fancylad edit](https://mega.nz/file/TcVUGQ5S#9PE8lMggBE0vleTEsioIStjVPQVb5km1KbtRtPk95v0)
+![](https://cdn.discordapp.com/attachments/1129437051855573013/1322584810622947358/screenshot027.jpg?ex=67716897&is=67701717&hm=c2eceaa2128d2e996a5de92edfc2a29cd549005717b14d787bb379d25f575c39&)
+
+# [cloutiful liveplay](https://mega.nz/file/vBEixZhY#EU-K10_PPKo7DASx8E6RikvcH4CPKRPReCzTiXc0G-s)
+![](https://cdn.discordapp.com/attachments/1129437051855573013/1322583863180132373/screenshot023.jpg?ex=677167b5&is=67701635&hm=587be400a7c3bbd5d0d2ebcf032a3338c3e5b3d17611243515f5c75bd7972609&)
 
 # [- Ryanstolefromkevin](https://mega.nz/file/uBEXiYob#ONh9MhkKYCjEyegwyrTdq8Tta3Kusn3d3weVpbRRKf4)
 ![](https://i.imgur.com/WUw6brN.png)
